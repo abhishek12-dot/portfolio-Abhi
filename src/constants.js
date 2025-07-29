@@ -57,27 +57,21 @@ export const SkillsInfo = [
     skills: [
       { name: 'HTML', logo: htmlLogo },
       { name: 'CSS', logo: cssLogo },
-      { name: 'SASS', logo: sassLogo },
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
-      { name: 'Angular', logo: angularLogo },
       { name: 'Redux', logo: reduxLogo },
       { name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
-      { name: 'GSAP', logo: gsapLogo },
-      { name: 'Material UI', logo: materialuiLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
     ],
   },
   {
     title: 'Backend',
     skills: [
-      { name: 'Springboot', logo: springbootLogo },
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
-      { name: 'Firebase', logo: firebaseLogo },
       { name: 'PostgreSQL', logo: postgreLogo },
     ],
   },
@@ -166,8 +160,8 @@ export const SkillsInfo = [
       "A responsive full-stack E-commerce platform built using React.js for the frontend and Node.js with MongoDB for the backend. It includes features like product listings, user authentication, cart management, and admin dashboard for order management.",
     image: webverLogo , // Replace with your actual image path or import
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/yourusername/ecommerce-project", // Replace with your actual GitHub link
-    webapp: "https://yourecommerceapp.netlify.app/", // Replace with your actual hosted app URL
+    github: "https://github.com/abhishek12-dot/e-commerce-frontend.git", // Replace with your actual GitHub link
+    webapp: "https://commercephoneweb.netlify.app/", // Replace with your actual hosted app URL
   },
   {
     id: 1,
@@ -176,7 +170,7 @@ export const SkillsInfo = [
       "An automation project built with Google Apps Script that processes form responses, stores them in Google Sheets, and sends custom email notifications based on user input. Designed to streamline workflows and improve efficiency in data collection and response handling.",
     image: cmLogo, // Replace with your image path or use a placeholder
     tags: ["Google Apps Script", "JavaScript", "Google Sheets", "Automation"],
-    github: "https://github.com/yourusername/google-form-automation", // Replace with your actual GitHub link
-    webapp: "https://docs.google.com/spreadsheets/d/your-spreadsheet-id", // Optional: link to sample sheet or web app
+    github: "https://github.com/abhishek12-dot/automation-login-form.git", // Replace with your actual GitHub link
+    webapp: "https://celebrated-crumble-7465b2.netlify.app/", // Optional: link to sample sheet or web app
   }
 ];
