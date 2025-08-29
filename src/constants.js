@@ -98,26 +98,7 @@ export const SkillsInfo = [
   },
 ];
 
-//   export const experiences = [
-//   {
-//     id: 1,
-//     company: "Personal Project",
-//     role: "E-commerce Website Developer",
-//     date: "March 2025",
-//     img: agcLogo, // Add an image path or URL
-//     desc: "Built a full-stack responsive E-commerce website using React.js for frontend and Node.js with MongoDB for backend. Implemented product listing, cart functionality, user authentication, and admin dashboard.",
-//     skills: ["React", "Node.js", "MongoDB", "Express", "CSS"]
-//   },
-//   {
-//     id: 2,
-//     company: "Automation Project",
-//     role: "Form Automation with Google Apps Script",
-//     date: "May 2025",
-//     img: newtonschoolLogo, // Add an image path or URL
-//     desc: "Created an automation system using Google Apps Script that collects form responses, stores them in Google Sheets, and triggers emails automatically based on input values.",
-//     skills: ["Google Apps Script", "JavaScript", "Google Sheets", "Automation"]
-//   }
-// ];
+
   
   
   export const education = [
